@@ -1,8 +1,14 @@
- ____  ____  ____  ____  ____  ____  ____  ____ 
-||K ||||A ||||S ||||S ||||- ||||V ||||I ||||M ||
-||__||||__||||__||||__||||__||||__||||__||||__||
-|/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\|
-
+                                                                                                            
+88      a8P          db          ad88888ba    ad88888ba             8b           d8  88  88b           d88  
+88    ,88'          d88b        d8"     "8b  d8"     "8b            `8b         d8'  88  888b         d888  
+88  ,88"           d8'`8b       Y8,          Y8,                     `8b       d8'   88  88`8b       d8'88  
+88,d88'           d8'  `8b      `Y8aaaaa,    `Y8aaaaa,                `8b     d8'    88  88 `8b     d8' 88  
+8888"88,         d8YaaaaY8b       `"""""8b,    `"""""8b,  aaaaaaaa     `8b   d8'     88  88  `8b   d8'  88  
+88P   Y8b       d8""""""""8b            `8b          `8b  """"""""      `8b d8'      88  88   `8b d8'   88  
+88     "88,    d8'        `8b   Y8a     a8P  Y8a     a8P                 `888'       88  88    `888'    88  
+88       Y8b  d8'          `8b   "Y88888P"    "Y88888P"                   `8'        88  88     `8'     88  
+                                                                                                            
+                                                                                                            
 kassvim is a distribution of vim plugins and resources for Vim
 
 Readme File ' I will create a script for that :D ' 
