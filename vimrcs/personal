@@ -1,0 +1,7 @@
+inoremap jj <esc>
+inoremap BB <!--
+inoremap NN -->
+inoremap bb /*
+inoremap nn */
+inoremap ww <
+inoremap xx >
