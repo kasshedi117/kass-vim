@@ -1,3 +1,8 @@
+ ____  ____  ____  ____  ____  ____  ____  ____ 
+||K ||||A ||||S ||||S ||||- ||||V ||||I ||||M ||
+||__||||__||||__||||__||||__||||__||||__||||__||
+|/__\||/__\||/__\||/__\||/__\||/__\||/__\||/__\|
+
 kassvim is a distribution of vim plugins and resources for Vim
 
 Readme File ' I will create a script for that :D ' 
