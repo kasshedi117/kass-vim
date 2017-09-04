@@ -1,0 +1,5 @@
+call plug#begin('~/.ivm/plugged')
+
+
+" Initialize plugin system
+call plug#end()
