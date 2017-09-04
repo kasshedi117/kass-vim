@@ -1,12 +1,3 @@
-                                                                                                                                                                                
-                                                                                                                                                                                
-O))   O))        O)         O)) O)    O)) O)        O))         O))O))O))       O))
-O))  O))        O) ))     O))    O))O))    O))       O))       O)) O))O) O))   O)))
-O)) O))        O)  O))     O))       O))              O))     O))  O))O)) O)) O O))
-O) O)         O))   O))      O))       O))    O)))))   O))   O))   O))O))  O))  O))
-O))  O))     O)))))) O))        O))       O))           O)) O))    O))O))   O)  O))
-O))   O))   O))       O)) O))    O))O))    O))           O))))     O))O))       O))
-O))     O))O))         O))  O)) O)    O)) O)              O))      O))O))       O))
 
 kassvim is a distribution of vim plugins and resources for Vim
 
