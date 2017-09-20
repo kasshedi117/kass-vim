@@ -1,0 +1,5 @@
+let g:NERDTreeDirArrowExpandable = 'o'
+let g:NERDTreeDirArrowCollapsible = '.'
+
+let g:NERDTreeDirArrow = 0
+

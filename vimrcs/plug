@@ -1,5 +1,6 @@
 call plug#begin('~/.ivm/plugged')
 
+Plug 'scrooloose/nerdtree'
 
 " Initialize plugin system
 call plug#end()
