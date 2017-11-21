@@ -1,5 +1,5 @@
-source ~/.kass/vim/kassvim/vimrcs/personal
-source ~/.kass/vim/kassvim/vimrcs/special
-source ~/.kass/vim/kassvim/vimrcs/plug
-source ~/.kass/vim/kassvim/vimrcs/nerdtree
+source ~/.kass/vim/kass-vim/vimrcs/personal
+source ~/.kass/vim/kass-vim/vimrcs/special
+source ~/.kass/vim/kass-vim/vimrcs/plug
+source ~/.kass/vim/kass-vim/vimrcs/nerdtree
 
