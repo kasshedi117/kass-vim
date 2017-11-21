@@ -25,7 +25,11 @@ ArchLinux : sudo pacman -S curl
 Debian    : sudo apt-get install curl
 RedHat    : sudo yum install curl 
 
-4 ) intall plug 
+4 ) run the script install.sh
+
+or install manually plug and configure the project as u like
+
+intall plug 
 
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
