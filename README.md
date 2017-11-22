@@ -26,6 +26,7 @@ Debian    : sudo apt-get install curl
 RedHat    : sudo yum install curl 
 
 4 ) run the script install.sh
+PS : dont forget to run ":PlugInstall"  
 
 or install manually plug and configure the project as u like
 
