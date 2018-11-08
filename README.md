@@ -35,6 +35,10 @@ intall plug
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
+5 ) It is reccomended to install typescript tools
+
+Ubuntu : $npm install -g clausreinke/typescript-tools typescript
+
 
 Intro to VIM
 
