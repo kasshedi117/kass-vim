@@ -1,0 +1,16 @@
+" then, run :make while editing a TypeScript file to execute the tsc compiler and display errors in the QuickFix window:
+
+let g:typescript_compiler_binary = 'tsc'
+let g:typescript_compiler_options = ''
+autocmd QuickFixCmdPost [^l]* nested cwindow
+autocmd QuickFixCmdPost    l* nested lwindow
+
+
+setlocal indentkeys+=0
+let g:typescript_opfirst='\%([<>=,?^%|*/&]\|\([-:+]\)\1\@!\|!=\|in\%(stanceof\)\=\>\)'
+
+autocmd FileType typescript :set makeprg=tsc
+
+
+
+
