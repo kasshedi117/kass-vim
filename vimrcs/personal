@@ -5,3 +5,8 @@ inoremap bb /*
 inoremap nn */
 inoremap ww <
 inoremap xx >
+
+nnoremap L gt
+nnoremap H gT
+
+
