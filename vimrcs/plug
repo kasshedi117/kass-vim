@@ -2,6 +2,7 @@ call plug#begin('~/.ivm/plugged')
 
 Plug 'scrooloose/nerdtree'
 Plug 'leafgarland/typescript-vim'
+Plug 'morhetz/gruvbox'
 
 " Initialize plugin system
 call plug#end()
