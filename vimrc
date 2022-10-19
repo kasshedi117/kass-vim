@@ -4,4 +4,5 @@ source ./vimrcs/plug
 source ./vimrcs/nerdtree
 source ./vimrcs/typescript-vim
 source ./vimrcs/colorscheme
+source ./vimrcs/fzf
 

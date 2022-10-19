@@ -1,0 +1,8 @@
+" FZF key bindings
+nnoremap <C-i> :Ag<CR>
+nnoremap <C-o> :Buffer<CR>
+nnoremap <C-p> :GFiles<CR>
+let g:fzf_action = {
+  \ 'ctrl-t': 'tab split',
+  \ 'ctrl-i': 'split',
+  \ 'ctrl-v': 'vsplit' }
