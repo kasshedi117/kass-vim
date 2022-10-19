@@ -35,3 +35,5 @@ set foldmethod=manual    " for manual method ( select => fold )
  "" Save folds
     au BufWinLeave * silent! mkview
     au BufWinEnter * silent! loadview
+
+set clipboard=unnamed   " yank and paste on different windows 
