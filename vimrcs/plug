@@ -1,10 +1,11 @@
-call plug#begin('~/.ivm/plugged')
+call plug#begin('~/.vim/plugged')
 
 Plug 'scrooloose/nerdtree'
 Plug 'leafgarland/typescript-vim'
 Plug 'morhetz/gruvbox'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
+Plug 'neoclide/coc.nvim'
 
 " Initialize plugin system
 call plug#end()
